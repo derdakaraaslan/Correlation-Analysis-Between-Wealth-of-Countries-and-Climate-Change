@@ -1,5 +1,6 @@
 !!!If the images/shapes are not visible, you need to run the code. (May not be available due to Plotly Express library).!!!
 !!! THERE IS NO DATASET IN THIS REPO, IF YOU WANT TO RUN CODE YOU HAVE TO ADD THİS. PLEASE READ THIS DOCUMENT !!!
+!!! PLEASE RUN THE CODE TO SEE THE IMAGES !!!
 
 Since notebooks use datasets produced in other notebooks, you should run notebooks in order. 
 Otherwise, you may get an error or the results may be incorrect. 
