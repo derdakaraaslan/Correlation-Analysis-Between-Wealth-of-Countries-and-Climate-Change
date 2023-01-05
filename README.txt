@@ -38,3 +38,5 @@ So don't be afraid when you see these datasets :).
 6 - top_co2_diff.csv
 7 - cleaned_income_change.csv
 8 - top_income_diff.csv
+
+If you have a problem you can send mail: derdakaraaslan02@gmail.com
